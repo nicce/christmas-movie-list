@@ -5,4 +5,4 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - 2019.md
+  - index.html
